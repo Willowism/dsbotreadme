@@ -1,1 +1,1 @@
-# dsbotreadme
+# dsbotreadme: die
